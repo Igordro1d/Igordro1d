@@ -14,6 +14,7 @@ I’m currently focused on expanding my skill set by learning new coding languag
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Python**
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/igor-moreira-castro-1b9a1621b/)
